@@ -60,29 +60,31 @@ Open Postman software to check if Requests are working sucessfully<br>
 <br />
 
 <p align="center">
-Add Remote Access<br>
+Make sure body of GET responses operate correctly and return information about Patient<br>
  
-![image_alt](https://i.imgur.com/wfGBzuy.png)
+![image_alt](https://i.imgur.com/toe5dHS.png)
 <br />
 <br />
 
 
 <p align="center">
- Check Connectivity on Client Windows 11 <br>
+ Request Records Returns <br>
  
-![image alt](https://github.com/Light89byte/ActiveDirectoryLab/blob/89c07cb8e321831e323363d668b8f7357f5c9833/Ping.png)
+![image alt](https://i.imgur.com/GM7qRry.png)
 <br />
 <br />
 
 <p align="center">
-  Connect Windows Client To Domain <br>
+  Create new Patient code <br>
  
-![image_alt](https://i.imgur.com/LaHYAYw.png)
+![image_alt](https://i.imgur.com/sl5b9YU.png)
+<br />
+<br />
 
 <p align="center">
- Check AD "Users and Computers" to see if connected<br>
+ Delete Patient Data code<br>
  
-![image_alt](https://i.imgur.com/CI3aTox.png)
+![image_alt](https://i.imgur.com/0P9H3HR.png)
 
 <br />
 <br />
