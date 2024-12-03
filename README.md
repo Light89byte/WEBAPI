@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 Welcome!
-In this lab, we're gonna go through setting up a REST API using Visual Studio Code, Express, Node JS & Postman. This a great introduction for beginners to understand how APIs work within a web application/ coding environment and gateway into stress testong, or pentesting, these applications. This will also be good practice to develop your understanding of APIs and their usefulness in your own personal inventory. Let's get started... 
+In this lab, we're gonna go through setting up a REST API using Visual Studio Code, Express, Node JS & Postman. This a great introduction for beginners to understand how APIs work within a web application/ coding environment and gateway into stress testing, or pentesting, these applications. This will also be good practice to develop your understanding of APIs and their usefulness in your own personal inventory. Let's get started... 
 <br />
 
 
